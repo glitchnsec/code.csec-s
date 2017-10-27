@@ -60,21 +60,21 @@
     
     You should see something similar below
     
-    ![alt text](SE/stack_01.png "debugger view after a few step throughs")
+    ![alt text](stack_01.png "debugger view after a few step throughs")
     
     +   Notice the order of values `0x00000001`, `0x00000002`, `0x00000003` and `0x00000004`.
     +   Notice the green coloured column below the first golden line: This is the stack. Higher addr below and top is lower address.
     +   Below is registers: Something we will cover in Reverse Engineering
     +   Notice the highlighted address in while `0x080483ff`. Search below for the correspoding address.
     
-    ![alt text](SE/stack_01_proof.png)
+    ![alt text](stack_01_proof.png)
     
     Observe the following image
     
-    ![alt text](SE/stack_02.png "flag local variable")
+    ![alt text](stack_02.png "flag local variable")
     
     +   Notice that according to our model, we expect to find the `flag` variable right after the buffer towards higher addresses
     +   The highlighted vaue is `31337` in hex
     
-    ![alt text](SE/stack_02_proof.png "It's the return address!")
+    ![alt text](stack_02_proof.png "It's the return address!")
     
