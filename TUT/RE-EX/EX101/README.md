@@ -10,7 +10,7 @@
     
         `$ objdump -D -M intel exp101 | grep -e "hidden"`
         
-        The dump file is provided [here](ex101.dump)
+        The dump file is provided [here](exp101.dump)
         
     3.   We wish to analyse the stack such that we know where our payload goes!
     
