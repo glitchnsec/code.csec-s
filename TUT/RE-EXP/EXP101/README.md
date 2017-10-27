@@ -1,6 +1,6 @@
 #### Basic exploitation example walkthrough
 
-`$ gcc -m32 -fno-stack-protector -z execstack -ex101.c -o ex101`
+`$ gcc -m32 -fno-stack-protector -z execstack -exp101.c -o exp101`
 
 1.  In this example, we attempt to execute an unused functon
 
@@ -10,7 +10,7 @@
     
         `$ objdump -D -M intel exp101 | grep -e "hidden"`
         
-        The dump file is provided [here](ex101.dump)
+        The dump file is provided [here](exp101.dump)
         
     3.   We wish to analyse the stack such that we know where our payload goes!
     
