@@ -3,7 +3,7 @@
 
 int add(int l_op, int r_op) {
     // not so perfect mul
-    int factor = r_op / abs(r_op);
+    int factor = abs(r_op) == 0 ? 0 : r_op / abs(r_op);
     int result = l_op;
     int i = abs(r_op);
     while (i) {
