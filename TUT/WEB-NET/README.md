@@ -33,7 +33,7 @@ Syllabus Winter 2018
 
     | Week | Topic| Challenges | Resources |
     |------|------|------------|-----------|
-    | 1/26 | Introduction | 
+    | 1/26 | [Introduction (WEB)](WEB101/Introduction.md)<br>[Introduction (NET)](NET101/Introduction.md) | | [Types of Computer Networks](http://www.scorelift.com/resources/types-of-computer-networks.html)|
     | 2/2  | OSI Model &<br> Socket programming | Build a simple page downloader in C | |
     | 2/9  | Packet structure &<br>Network Scanning | Build the ping <br>in your language of choice | 
     | 2/16 | Introduction to Web Applications | | |
