@@ -21,6 +21,10 @@ Syllabus Winter 2018
 
     2.  Hacking; the Art of Exploitation
 
+    Online course (Recommended):
+
+    3.  [Hacker101 by HackerOne](https://www.hacker101.com)
+
     Additional resources will be announced or posted as deemed necessary
 
 +   <u>**Tutorial hour schedule**</u>
