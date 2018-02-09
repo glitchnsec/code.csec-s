@@ -73,7 +73,7 @@ Syllabus Winter 2018
 
     | Week | Topic| Challenges | Resources |
     |------|------|------------|-----------|
-    | 1/26 |      | Natas 1 - 3| 
+    | 1/26 |      | Natas 1 - 3| [Natas1-6](../../PRA/WEB-NET/Natas1-6.md) |
     | 2/2  |      | Natas 4 - 6|
     | 2/9  |      | Natas 7 - 9| 
     | 2/16 |      | Natas 10-12| |
