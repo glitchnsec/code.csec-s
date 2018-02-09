@@ -22,8 +22,18 @@ Simply put, the layers of communication. Below we elaborate in a bottoms-up appr
 
 +   <u>Session Layer</u>
 
+    This layer establishes and maintains connection between end user applications.
+
 +   <u>Presentation Layer</u>
+
+    This layer is responsible for presenting application data in the format expected. It is often called the syntax layer. Encryption is one of the possible formatting applied to data at this level
 
 +   <u>Application Layer</u>
 
+    This layer involves process to process communication. It keeps track of the requirements of the applications in connection
+
 +   <u>The Encapsulation story</u>
+
+    When a socket is opened on a machine, this is a session layer activity. The transport layer provides some level of relieability and transport control. The IP level provides the addressing on the network packet level. The data link layer provides addressing on the Ethernet within the local network. At the physical layer, the wire and the protocol used to connect the devices together ensures the packets can leave and return to the host.
+
+    When you say, browse the internet, the OS handles all the layer details so that you can focus on your internet activity.
