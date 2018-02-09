@@ -35,7 +35,7 @@ Syllabus Winter 2018
     |------|------|------------|-----------|
     | 1/26 | [Introduction (WEB)](WEB101/Introduction.md)<br>[Introduction (NET)](NET101/Introduction.md) | | [Types of Computer Networks](http://www.scorelift.com/resources/types-of-computer-networks.html)|
     | 2/2  | [OSI Model](NET101/OSI.md) &<br> [Socket programming](NET101/Sockets.md) | Build a simple page downloader in C | Hacking; The Art of Exploitation Chapter 4 (0x400 - 0x430)|
-    | 2/9  | [Packet structure &<br>Network Scanning](NET101/Packets_NetScan.md) | Build the ping <br>in your language of choice | Hacking; The Art of Exploitation Chapter 4 (0x430 - 0x480) |
+    | 2/9  | [Packet structure](NET101/Packets.md) &<br>[Network Scanning](NET101/Scan.md) | Build the ping <br>in your language of choice | Hacking; The Art of Exploitation Chapter 4 (0x430 - 0x480) |
     | 2/16 | Introduction to Web Applications | | |
     | 2/23 | Introduction to Web Applications2 | | |
     | 3/2  | Javascript and SQL <br> (Crash course) | | | 
