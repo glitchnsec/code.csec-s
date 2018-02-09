@@ -18,7 +18,7 @@ Simply put, the layers of communication. Below we elaborate in a bottoms-up appr
 
 +   <u>Transport Layer</u>
 
-    This layer provides data transfer between systems. 
+    This layer provides data transfer between systems. Some protocols at this layer include the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). Most application layer services that require order and reliability of communication work with TCP on the transport layer. The TC protocol can be illustrated with a telephone call. Realtime connection and guaranteed receipts of packets in the order they were sent. UD Protocal can be illustrated with a mail system. Packets may not be received in order and it does not require active connection.
 
 +   <u>Session Layer</u>
 

@@ -55,12 +55,13 @@ Syllabus Winter 2018
     | # | Topics                             |
     |---|------------------------------------|
     | 1.| Routers                            |
-    | 2.| Firewalls                          |
-    | 3.| Proxy                              |
-    | 4.| Intrusion Prevention Systems (IPS) |
-    | 5.| Intrusion Detection Systems (IDS)  |
-    | 6.| Tunnelling                         |
-    | 7.| Network configurations             |
+    | 2.| IP                                 |
+    | 3.| Firewalls                          |
+    | 4.| Proxy                              |
+    | 5.| Intrusion Prevention Systems (IPS) |
+    | 6.| Intrusion Detection Systems (IDS)  |
+    | 7.| Tunnelling                         |
+    | 8.| Network configurations             |
 
 
 +   <u>**Practical hour schedule**</u>
