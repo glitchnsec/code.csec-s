@@ -34,8 +34,8 @@ Syllabus Winter 2018
     | Week | Topic| Challenges | Resources |
     |------|------|------------|-----------|
     | 1/26 | [Introduction (WEB)](WEB101/Introduction.md)<br>[Introduction (NET)](NET101/Introduction.md) | | [Types of Computer Networks](http://www.scorelift.com/resources/types-of-computer-networks.html)|
-    | 2/2  | OSI Model &<br> Socket programming | Build a simple page downloader in C | |
-    | 2/9  | Packet structure &<br>Network Scanning | Build the ping <br>in your language of choice | 
+    | 2/2  | [OSI Model](NET101/OSI.md) &<br> [Socket programming](NET101/sockets.md) | Build a simple page downloader in C | Hacking; The Art of Exploitation Chapter 4 (0x400 - 0x430)|
+    | 2/9  | [Packet structure &<br>Network Scanning](NET101/Packets_NetScan.md) | Build the ping <br>in your language of choice | Hacking; The Art of Exploitation Chapter 4 (0x430 - 0x480) |
     | 2/16 | Introduction to Web Applications | | |
     | 2/23 | Introduction to Web Applications2 | | |
     | 3/2  | Javascript and SQL <br> (Crash course) | | | 
@@ -47,6 +47,21 @@ Syllabus Winter 2018
     | 4/13 |
     | 4/20 |
     | 4/27 |
+
++   <u>**Additional Topics**</u>
+
+    Materials posted here do not have an assigned week but are needed for reference while solving challenges.
+
+    | # | Topics                             |
+    |---|------------------------------------|
+    | 1.| Routers                            |
+    | 2.| Firewalls                          |
+    | 3.| Proxy                              |
+    | 4.| Intrusion Prevention Systems (IPS) |
+    | 5.| Intrusion Detection Systems (IDS)  |
+    | 6.| Tunnelling                         |
+    | 7.| Network configurations             |
+
 
 +   <u>**Practical hour schedule**</u>
 
